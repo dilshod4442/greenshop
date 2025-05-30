@@ -955,5 +955,236 @@ li{
     margin-left: 100px;
 }
 .main{
-    margin-top: 60px;
+    margin-top: 20px;
+}
+.biling__Pp{
+    margin-top: 30px;
+}
+.lo{
+    margin-top: 20px;
+}
+.mn{
+    margin-top: 25px;
+}
+.input--{
+    padding-block: 13px;
+    padding-inline: 13px 173px;
+}
+.ph{
+    margin-bottom: 40px;
+}
+.Cart__Totals{
+    margin-top: 55px;
+}
+.inpt{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+.inut{
+    background-color: #4caf50;
+}
+.biling__menu{
+    display: flex;
+    gap: 30px;
+}
+.input__12{
+    margin-top: 48px;
+}
+.input--{
+    outline: none;
+    color: #b9b9b9;
+}
+.biling__menu p{
+    margin-top: 30px;
+}
+#input25{
+    padding-block: 12px;
+    padding-inline: 10px;
+    color: #777;
+    outline: none;
+}
+#textarea{
+    padding-block: 70px;
+    padding-inline: 80px;
+    outline: none;
+    border: solid #EAEAEA 1px;
+    resize: none;
+}
+.biling__main{
+    margin: 0;
+}
+.input---{
+    padding-block: 13px;
+    padding-inline: 13px 173px;
+    margin-top: 28px;
+}
+.Products__card2{
+    display: flex;
+    align-items: center;
+}
+.carad__p{
+    color: #727272;
+}
+.btns772{
+     display: flex;
+     gap: 10px;
+     margin-left: 50px;
+}
+.evr2{
+    margin-left: 70px;
+    color: #4caf50;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+}
+.delete__img2{
+    margin-left: 35px;
+    margin-top: 3px;
+}
+.flx__main{
+    display: flex;
+}
+.sub__22{
+    display: flex;
+    gap: 325px;
+}
+.hit{
+    background-color: #46A358;
+    height: 1px;
+}
+.sub__22 p{
+    margin-top: 21px;
+    color: #3D3D3D;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 11px;
+}
+.your{
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+.pe{
+    display: flex;
+    gap: 5px;
+    margin-left: 247px;
+}
+.pe1{
+    color: #4caf50;
+}
+.ew{
+    color: #3D3D3D;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+.subtotoal{
+    display: flex;
+    gap: 160px;
+}
+.have__menu2{
+    margin-left: 100px;
+    margin-top: 12px;
+}
+.retv{
+    position: relative;
+    right: 51px;
+}
+.prtc{
+    margin-top: 40px;
+}
+.two{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+.two2{
+    position: relative;
+    left: 17px;
+}
+.phn{
+    color: #46A358;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    margin-left: 170px;
+}
+.nbv{
+    height: 1px;
+    background-color: #4caf50;
+    width: 70%;
+    margin-left: 100px;
+    margin-top: 7px;
+}
+.Totat23{
+    display: flex;
+    margin-top: 16px;
+    gap: 200px;
+    margin-left: 100px;
+}
+.ere{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+    color: #46A358;
+}
+.Payment__menu p{
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+.input__33{
+    padding-block: 14px;
+    padding-inline: 37px 80px;
+}
+.labl{
+    accent-color: green;
+    position: relative;
+    right: 270px;
+    top: 3px;
+    
+}
+.img__card{
+    position: relative;
+    left: 50px;
+    bottom: 45px;
+}
+.input__flex{
+    padding-block: 14px;
+    padding-inline: 37px 80px;
+    outline: none;
+}
+.input__flex{
+    margin-left: 83px;
+}
+.input__33{
+    margin-left: 100px;
+}
+.labl2{
+    accent-color: green;
+    position: relative;
+    left: 115px;
+    top: 3px;
+}
+.place{
+    padding-block: 12px;
+    padding-inline: 100px;
+    border-radius: 3px;
+    border: none;
+    background-color: #4caf50;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 16px;
+    margin-left: 99px;
+}
+.payment__option img{
+    position: relative;
+    top: 52px;
+    left: 140px;
 }
