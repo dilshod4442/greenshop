@@ -1150,7 +1150,7 @@ li{
     
 }
 .img__card{
-    position: relative;
+    position: absolute;
     left: 50px;
     bottom: 45px;
 }
@@ -1188,3 +1188,4 @@ li{
     top: 52px;
     left: 140px;
 }
+
